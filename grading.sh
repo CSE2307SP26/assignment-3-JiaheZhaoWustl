@@ -1,6 +1,7 @@
 # gradingScript
 # run this to work ./grading.sh expected_output.txt output.txt < student_keys.txt
 # Deadline: Wed Feb 12, 2026 10am Central
+# Late submissions get score 0
 
 EXPECTED="$1"
 OUTPUT="$2"
